@@ -1,0 +1,79 @@
+{
+    "nameApp" : "Componentes",
+    "seen" : [
+        {
+            "title" : "Ajin",
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Ajin_Demi-Human_Manga_Cover.png",
+            "year": "2012",
+            "about": "Ajin: Demi-Human (Japanese: 亜人, Hepburn: Ajin) is a Japanese manga series written and illustrated by Gamon Sakurai. It was adapted into an 3D animated film trilogy by Polygon Pictures between November 2015 and September 2016. An anime television series adaptation also by Polygon Pictures aired between January and April 2016, with a second season premiering on October 8, 2016. A live-action film adaptation was released on September 30, 2017."
+        },
+        {
+            "title" : "Dragon Ball Z",
+            "img": "https://i.pinimg.com/originals/4a/75/e6/4a75e6876f5be663d7d95c4e83b15990.png",
+            "year": "1989",
+            "about": "Dragon Ball Z (Japanese: ドラゴンボールＺゼット, Hepburn: Doragon Bōru Zetto, commonly abbreviated as DBZ) is a Japanese anime television series produced by Toei Animation. It is the sequel to Dragon Ball and adapts the latter 325 chapters of the original 519-chapter Dragon Ball manga series created by Akira Toriyama which ran in Weekly Shōnen Jump from 1988 to 1995. Dragon Ball Z aired in Japan on Fuji TV from April 26, 1989 to January 31, 1996, before getting dubbed in territories including the United States, Canada, Australia, Europe, Asia, and Latin America. It was broadcast in at least 81 countries worldwide.[4] It is part of the Dragon Ball media franchise. Dragon Ball Z continues the adventures of Goku, who, along with his companions, defend the Earth against villains ranging from aliens (Frieza), androids (Cell) and magical creatures (Majin Buu). While the original Dragon Ball anime followed Goku from childhood to early adulthood, Dragon Ball Z is a continuation of his adult life, but at the same time parallels the life of his son, Gohan, as well as the development of his rival Vegeta."
+        },
+
+        {
+            "title" : "One Punch Man",
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/OnePunchMan_manga_cover.png",
+            "year": "2009",
+            "about": "One-Punch Man (Japanese: ワンパンマン, Hepburn: Wanpanman) is a Japanese superhero franchise created by the artist ONE. It tells the story of Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy foe after growing bored by a lack of challenge due to his overwhelming strength. ONE wrote the original webcomic version in early 2009, and it quickly grew in popularity, surpassing 7.9 million hits in June 2012. The series has since received manga and anime adaptations.\n\nThe series' digital manga remake began publication on Shueisha's Tonari no Young Jump website in 2012. The manga is illustrated by Yusuke Murata, and the chapters are periodically collected and printed into tankōbon volumes. As of December 2019, 21 volumes have been released, 19 of which have been republished in English. Viz Media has licensed the remake for English serialization in its Weekly Shonen Jump digital magazine. Its English release was nominated for an Eisner Award in 2015 and a Harvey Award in 2016.\n\nThe series' anime adaptation was created by Madhouse and aired in Japan between October and December 2015. It was dubbed in English during the summer of 2016, and a second season was announced later that year. On September 25, 2017, it was announced the production company and director had changed. The second season was animated by J.C.Staff, with Chikara Sakurai replacing Shingo Natsume as director and Yoshikazu Iwanami replacing Shoji Hata as sound director. The second season aired between April and July 2019."
+        },
+        {
+            "title" : "7 Pecados Capitales",
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/Nanatsu_no_Taizai_Volume_1.png",
+            "year": "2009",
+            "about": "The Seven Deadly Sins (Japanese: 七つの大罪, Hepburn: Nanatsu no Taizai) is a Japanese fantasy manga series written and illustrated by Nakaba Suzuki. It was serialized in Kodansha's Weekly Shōnen Magazine from October 2012 to March 2020, with the chapters collected into forty-one tankōbon volumes as of May 15, 2020. The manga features a setting similar to the European Middle Ages, with its titular group of knights representing the seven deadly sins."
+        },
+        {
+            "title" : "Afro Samurai",
+            "img": "https://upload.wikimedia.org/wikipedia/en/3/3e/Afro_vol1_english.jpg",
+            "year": "1998",
+            "about": "Afro Samurai (アフロサムライ, Afuro Samurai, stylized as ΛFΓO SΛMUΓΛI) is a Japanese seinen dōjinshi manga series written and illustrated by manga artist Takashi Okazaki. It was originally serialized irregularly in the avant-garde dōjinshi manga magazine Nou Nou Hau from November 1998 to September 2002. Inspired by Okazaki's love of soul and hip hop music and American media, it follows the life of Afro Samurai who witnessed his father, Rokutaro (owner of the No. 1 headband) being killed by a male gunslinger named Justice (owner of the No. 2 headband) while he was a child. As an adult, Afro sets off to kill Justice and avenge his father."
+        },
+        {
+            "title" : "Death Note",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg",
+            "year": "2003",
+            "about": "Death Note (Japanese: デスノート, Hepburn: Desu Nōto) is a Japanese manga series written by Tsugumi Ohba and illustrated by Takeshi Obata. The story follows Light Yagami, a teen genius[5] who stumbles across a mysterious otherworldly notebook: the \"Death Note\", which belonged to the Shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages. The series centers around Light's subsequent attempts to use the Death Note to carry out a worldwide massacre of individuals whom he deems morally unworthy of life to change the world into a utopian society without crime, using the alias of a god-like vigilante named \"Kira\" (\"キラ\", the Japanese transliteration of the English word: killer) and the subsequent efforts of an elite task-force of law enforcement officers, consisting of members of the Japanese police force, led by L, an enigmatic international detective whose past is shrouded in mystery, to apprehend him and end his reign of terror."
+        }
+
+    ],
+    "desired" : [
+        {
+            "title" : "Neon Genesis Evangelion",
+            "img": "https://i.blogs.es/f504c6/neon-genesis-evangelion-critica-anime-serie-espinof/450_1000.jpg",
+            "year": "1995",
+            "about": "Neon Genesis Evangelion (Japanese: 新世紀エヴァンゲリオン, Hepburn: Shinseiki Evangerion, lit. \"New Century Gospel\") is a Japanese mecha anime television series produced by Gainax and Tatsunoko Production, directed by Hideaki Anno and broadcast on TV Tokyo from October 1995 to March 1996. The cast included Megumi Ogata as Shinji Ikari, Kotono Mitsuishi as Misato Katsuragi, Megumi Hayashibara as Rei Ayanami, and Yūko Miyamura as Asuka Langley Soryu. Music for the series was composed by Shirō Sagisu."
+        },  {
+            "title" : "Attack on Titan",
+            "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg",
+            "year": "2009",
+            "about": "Attack on Titan (Japanese: 進撃の巨人, Hepburn: Shingeki no Kyojin, lit. \"The Attack Giant\") is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a fantasy world where humanity lives within territories surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans. The series first began in Kodansha's Bessatsu Shōnen Magazine on September 9, 2009, and it has been collected into 31 tankōbon volumes as of April 2020."
+        },
+        {
+            "title" : "Castlevania",
+            "img": "https://upload.wikimedia.org/wikipedia/en/2/21/Castlevania_netflix_titlecard.png",
+            "year": "1989",
+            "about": "Castlevania is an American adult animated web television series based on the Japanese video game series of the same name by Konami. The first two seasons adapt the 1989 entry Castlevania III: Dracula's Curse and follow Trevor Belmont, Alucard and Sypha Belnades as they defend the nation of Wallachia from Dracula and his minions. Seasons 2 and 3 borrow characters and elements from the 2005 entry Castlevania: Curse of Darkness."
+        },  {
+            "title" : "Kakegurui – Compulsive Gambler",
+            "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Kakegurui_-_Compulsive_Gambler%2C_Volume_1.jpg",
+            "year": "2014",
+            "about": "Kakegurui – Compulsive Gambler (Japanese: 賭ケグルイ, Hepburn: Kakegurui) is a Japanese manga series written by Homura Kawamoto and illustrated by Tōru Naomura. It began serialization in Square Enix's Gangan Joker in March 2014. A prequel spin-off manga, Kakegurui Twin, began serialization in Gangan Joker in September 2015."
+        },
+        {
+            "title" : "Devilman Crybaby",
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Devilman-crybaby-visual.png",
+            "year": "2018",
+            "about": "Devilman Crybaby is a 2018 Japanese original net animation (ONA) series based on Go Nagai's manga series Devilman. The series is directed by Masaaki Yuasa, produced by Aniplex and Dynamic Planning, animated by Science Saru, and released by Netflix. Yuasa was offered the opportunity to create a Devilman project by Aniplex, and envisioned Crybaby by incorporating what he believed Nagai would explore in terms of graphic content had the author not been restrained by the shōnen (young boys) demographic of the original series. Announced in 2017 to mark Nagai's 50th anniversary as a creator, Crybaby was made available for worldwide streaming on January 5, 2018 as a Netflix original series."
+        },
+        {
+            "title" : "Tokyo Ghoul",
+            "img": "https://upload.wikimedia.org/wikipedia/en/e/e5/Tokyo_Ghoul_volume_1_cover.jpg",
+            "year": "2011",
+            "about": "Tokyo Ghoul (Japanese: 東京喰種トーキョーグール, Hepburn: Tōkyō Gūru) is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump between September 2011 and September 2014, and it has been collected in fourteen tankōbon volumes as of August 2014. A sequel titled Tokyo Ghoul:re was serialized in the same magazine between October 2014 and July 2018, and was later collected into sixteen tankōbon volumes. A prequel titled Tokyo Ghoul [Jack] ran online on Jump Live."
+        }
+    ]
+}
