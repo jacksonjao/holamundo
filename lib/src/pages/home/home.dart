@@ -39,8 +39,10 @@ class _HomeState extends  State<Home> {
         child: _widgetOptions.elementAt(_selectedIndex),
       ),
       bottomNavigationBar: BottomNavigationBar(
+        backgroundColor: ColorsApp.primary,
         currentIndex: _selectedIndex,
         selectedItemColor: ColorsApp.yellow,
+        unselectedItemColor: ColorsApp.yellow.withAlpha(100),
         onTap: _onItemTapped,
         showSelectedLabels: false,
         showUnselectedLabels: false,
