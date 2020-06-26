@@ -25,7 +25,7 @@ Widget desiredList() {
                ,
              ),
              Expanded(
-               child: ListView(children: _desiredListItems(snapshot.data)),
+               child: ListView(children: _desiredListItems(snapshot.data, context)),
              )
 
            ],
@@ -35,7 +35,7 @@ Widget desiredList() {
       });
 }
 
-List<Widget> _desiredListItems(List<dynamic> data) {
+List<Widget> _desiredListItems(List<dynamic> data, BuildContext context) {
   final List<Widget> items = [];
   double margin ;
   int j = 0;
@@ -58,7 +58,7 @@ List<Widget> _desiredListItems(List<dynamic> data) {
       ),
       subtitle: Text(element['year'], style: poppinsFont(ColorsApp.primary.withAlpha(150))),
       onTap: () => {
-        print(element)
+      Navigator.pushNamed(context, 'detail', arguments: element)
       },
     );
    // print(element);

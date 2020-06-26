@@ -25,3 +25,11 @@ TextStyle poppinsFont (Color color){
     fontSize: 14,
   );
 }
+
+
+TextStyle fontText (Color color){
+  return GoogleFonts.poppins(
+    color: color,
+    fontSize: 12,
+  );
+}

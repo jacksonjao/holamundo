@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_statusbarcolor/flutter_statusbarcolor.dart';
-import 'package:holamundo/src/pages/home/home.dart';
+import 'package:holamundo/src/routes/routes.dart';
 import 'package:holamundo/src/styles/colors.dart';
 
 class MyApp extends StatelessWidget {
@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Home(),
+      initialRoute: '/',
+      routes: getApplicationRoutes(),
     );
   }
 }

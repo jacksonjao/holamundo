@@ -23,7 +23,7 @@ Widget seenList() {
             Expanded(
               child:  ListView(
                 scrollDirection: Axis.horizontal,
-                children: _seenListItems(snapshot.data),
+                children: _seenListItems(snapshot.data, context),
               ),
             )
           ],
@@ -33,7 +33,7 @@ Widget seenList() {
   );
 }
 
-List<Widget> _seenListItems(List<dynamic> list) {
+List<Widget> _seenListItems(List<dynamic> list, BuildContext context) {
   final List<Widget> items=[];
   double margin ;
   int j = 0;
@@ -46,7 +46,7 @@ List<Widget> _seenListItems(List<dynamic> list) {
       clipBehavior: Clip.antiAlias,
       child: InkWell(
           onTap: (){
-            print(element['title']);
+            Navigator.pushNamed(context, 'detail', arguments: element);
           },
           child: Container(
               decoration: BoxDecoration(
