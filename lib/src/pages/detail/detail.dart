@@ -8,8 +8,6 @@ class Detail extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     data = ModalRoute.of(context).settings.arguments;
-print(data['title'])
-
   ;
     // TODO: implement build
     return Scaffold(
